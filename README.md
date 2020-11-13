@@ -1,2 +1,2 @@
-# software-spells
-A spellbook of algorithms to defeat even the mightiest problems
+# Software Spells
+A spellbook of algorithms to defeat even the mightiest problems.
